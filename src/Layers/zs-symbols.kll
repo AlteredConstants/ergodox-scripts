@@ -1,0 +1,25 @@
+Name = "Ergodox Dvorak Programmer";
+Version = "0.1";
+Author = "Zeff Svoboda";
+KLL = "0.3c";
+Date = "2016-05-15";
+
+U"U" : U"[";
+U"I" : U"=";
+U"O" : '!';
+U"P" : U"]";
+
+U"J" : '{';
+U"K" : '(';
+U"L" : ')';
+U";" : '}';
+
+U"M" : U"/";
+U"," : '&';
+U"." : '|';
+U"/" : U"\";
+
+U"Right Alt" : U"Home";
+U"Right Ctrl" : U"End";
+U"PageUp" : U"PageUp";
+U"PageDown" : U"PageDown";

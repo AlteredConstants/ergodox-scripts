@@ -1,0 +1,101 @@
+Name = "Ergodox Dvorak Programmer";
+Version = "0.1";
+Author = "Zeff Svoboda";
+KLL = "0.3c";
+Date = "2016-05-15";
+
+###############
+## Left Hand ##
+###############
+
+U"=" : U"Esc";
+U"1" : U"1";
+U"2" : U"2";
+U"3" : U"3";
+U"4" : U"4";
+U"5" : U"5";
+U"Esc" : U"F5";
+
+U"\" : U"Tab";
+U"Q" : U"'";
+U"W" : U",";
+U"E" : U".";
+U"R" : U"P";
+U"T" : U"Y";
+U"Function1" : U"[";
+
+U"Tab" : U"Left Ctrl";
+U"A" : U"A";
+U"S" : U"O";
+U"D" : U"E";
+U"F" : U"U";
+U"G" : U"I";
+
+U"Left Shift" : U"Left Shift";
+U"Z" : U";";
+U"X" : U"Q";
+U"C" : U"J";
+U"V" : U"K";
+U"B" : U"X";
+U"Function2" : U"Lock2";
+
+U"Left GUI" : U"Left GUI";
+U"`" : U"CapsLock";
+U"Function3" : U"Left Alt";
+U"Function4" : U"\";
+U"Function5" : U"Function4";
+
+U"Left Ctrl" : U"Lock5";
+U"Left Alt" : U"Lock3";
+U"Backspace" : U"Backspace";
+U"Delete" : U"Delete";
+U"Home" : U"Home";
+U"End" : U"End";
+
+################
+## Right Hand ##
+################
+
+U"Function6" : U"`";
+U"6" : U"6";
+U"7" : U"7";
+U"8" : U"8";
+U"9" : U"9";
+U"0" : U"0";
+U"-" : U"=";
+
+U"[" : U"]";
+U"Y" : U"F";
+U"U" : U"G";
+U"I" : U"C";
+U"O" : U"R";
+U"P" : U"L";
+U"]" : U"/";
+
+U"H" : U"D";
+U"J" : U"H";
+U"K" : U"T";
+U"L" : U"N";
+U";" : U"S";
+U"'" : U"-";
+
+U"Function7" : U"Function1";
+U"N" : U"B";
+U"M" : U"M";
+U"," : U"W";
+U"." : U"V";
+U"/" : U"Z";
+U"Right Shift" : U"Right Shift";
+
+U"Left" : U"Home";
+U"Down" : U"End";
+U"Up" : U"Right Alt";
+U"Right" : U"Right Ctrl";
+U"Right GUI" : U"Right GUI";
+
+U"Right Alt" : U"Left";
+U"Right Ctrl" : U"Right";
+U"PageUp" : U"Up";
+U"PageDown" : U"Down";
+U"Enter" : U"Enter";
+U"Space" : U"Space";
