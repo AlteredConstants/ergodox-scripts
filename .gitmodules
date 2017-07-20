@@ -1,3 +1,6 @@
 [submodule "controller"]
 	path = controller
 	url = https://github.com/kiibohd/controller.git
+[submodule "kll"]
+	path = kll
+	url = https://github.com/kiibohd/kll.git

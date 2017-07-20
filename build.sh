@@ -16,6 +16,8 @@ cp $repo_path/Keyboards/ICED-L.gcc/kiibohd.dfu.bin $out_dir/left.bin
 cp $repo_path/Keyboards/ICED-R.gcc/kiibohd.dfu.bin $out_dir/right.bin
 cp -r ./src/* $out_dir
 
+git submodule --quiet foreach 'git reset --hard --quiet && git clean -d --force --quiet'
+
 echo -n "Flash right? [y/N] "
 read -n 1 flash_right
 echo
